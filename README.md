@@ -2,10 +2,10 @@
 QA Task
 
 ## Technologies Used
-Python
-Selenium
-Appium
-Pytest
+- Python 
+- Selenium
+- Appium
+- Pytest
 
 ## Pre-requisites
 - Python is installed
